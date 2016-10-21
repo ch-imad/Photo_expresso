@@ -1,0 +1,2 @@
+# Photo_expresso
+Photo-Expresso est un laboratoire photographique pour professionnels, spécialiste de l’argentique et du numérique.  Pour effectuer sa transformation digitale, ce dernier souhaite proposer ses services aux utilisa-teurs de smartphones ou de tablettes pour leur permettre de faire imprimer leurs photos avec une qualité professionnelle, puis de les faire expédier à leurs contacts.  Il souhaite également le fait de pouvoir appliquer différents masques sur les photos que l’utilisateur peut sélectionner avant de les envoyer.
